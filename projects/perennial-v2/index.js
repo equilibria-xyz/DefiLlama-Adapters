@@ -7,8 +7,8 @@ const config = {
     fromBlock: 135921706,
   },
   perennial: {
-    dsu: '0xC27399bE9E39f7F6b1f94fBd512F5c2aD2b5eDb7',
-    factory: '0xDaD8A103473dfd47F90168A0E46766ed48e26EC7',
+    dsu: '0x7b4Adf64B0d60fF97D672E473420203D52562A84',
+    factory: '0xC27399bE9E39f7F6b1f94fBd512F5c2aD2b5eDb7',
     fromBlock: 615402,
   },
 };
